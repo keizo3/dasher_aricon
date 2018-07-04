@@ -6,7 +6,6 @@
     "method": "POST",
     "json": true,
     "body": {"text":"冷房on"},
-    "protocol": "udp",
-    "debug": true
+    "protocol": "udp"
   }
 ]}
