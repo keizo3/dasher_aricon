@@ -1,0 +1,12 @@
+{"buttons":[
+  {
+    "name": "happy belly",
+    "address": "34:d2:70:7b:3b:f7",
+    "url": "https://hooks.slack.com/services/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",
+    "method": "POST",
+    "json": true,
+    "body": {"text":"冷房on"},
+    "protocol": "udp",
+    "debug": true
+  }
+]}
